@@ -111,5 +111,42 @@ git push
 pnpm run build
 pnpm run deploy
 ```
-# jika menggunakan react router
-perhatikan baseURL nya
+# perbaiki sumber asset
+
+## Solusi 1 (Paling disarankan)
+
+Simpan path tanpa `/` di depan.
+
+```json
+{
+  "id": 1,
+  "image": "gallery/1.jpg",
+  "caption": "Momen Bahagia Kami"
+}
+```
+
+Lalu ketika menampilkan gambar:
+
+```tsx
+<img src={`${import.meta.env.BASE_URL}${item.image}`} />
+```
+
+`import.meta.env.BASE_URL` akan bernilai:
+
+* Development
+
+```
+/
+```
+
+* GitHub Pages
+
+```
+/wedding05-pages/
+```
+
+Hasil akhirnya otomatis menjadi
+
+```
+/wedding05-pages/gallery/1.jpg
+```
