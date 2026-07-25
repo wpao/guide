@@ -1,4 +1,4 @@
-> 🏠 [Beranda](../../README.md) | 📚 [Daftar Dokumentasi](../../README.md)
+> 🏠 [Beranda](README.md)
 
 ---
 
@@ -6,11 +6,11 @@
 
 # Dokumentasi
 
-- [membuat github pages](../../githubpages.md)
-- [run with ngrok](../../run-with-ngrok.md)
+- [membuat github pages](githubpages.md)
+- [run with ngrok](run-with-ngrok.md)
 
 ...
 
 ---
 
-> 🏠 [Beranda](../../README.md)
+> 🏠 [Beranda](README.md)
