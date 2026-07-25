@@ -1,3 +1,11 @@
+# Github Pages
+
+> 🏠 [Beranda](README.md)
+
+---
+
+<!-- Isi materi -->
+
 note :
 project ini di buat menggunakan vite, react-ts, tailwindcss
 
@@ -150,3 +158,7 @@ Hasil akhirnya otomatis menjadi
 ```
 /wedding05-pages/gallery/1.jpg
 ```
+
+---
+
+> 🏠 [Beranda](README.md) | ⬆️ [Kembali ke Atas](#github-pages)
