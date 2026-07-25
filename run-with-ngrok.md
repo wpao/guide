@@ -1,3 +1,8 @@
+# Run Ngrok
+
+> 🏠 [Beranda](README.md)
+
+---
 # Menjalankan project menggunakan Ngrok
 ## cara 1
 contoh project kita di buat menggunakan vite
@@ -48,3 +53,6 @@ export default defineConfig({
   },
 });
 ```
+---
+
+> 🏠 [Beranda](README.md) | ⬆️ [Kembali ke Atas](#run-ngrok)
