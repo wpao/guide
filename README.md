@@ -1,7 +1,16 @@
+> 🏠 [Beranda](../../README.md) | 📚 [Daftar Dokumentasi](../../README.md)
+
+---
+
+<!-- Isi materi -->
+
 # Dokumentasi
 
-- [React State](docs/react/state.md)
-- [useEffect](docs/react/use-effect.md)
-- [TypeScript Interface](docs/typescript/interface.md)
-- [Axios](docs/api/axios.md)
-- [run with ngrok](run-with-ngrok.md)
+- [membuat github pages](../../githubpages.md)
+- [run with ngrok](../../run-with-ngrok.md)
+
+...
+
+---
+
+> 🏠 [Beranda](../../README.md)
